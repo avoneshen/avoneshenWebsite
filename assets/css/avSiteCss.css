@@ -1,0 +1,50 @@
+body {
+  padding-top: 50px;
+}
+
+hr {
+	color: black; 
+	background-color:black;
+	height: 1px; 	
+}
+
+img {
+	width: 100%;
+}
+
+#heroImage {
+	position: relative;
+	
+}
+
+#heroText {	
+		position: absolute; 
+		width: 100%; 
+		text-align: center; 
+		top: 20%; 
+		color: white;
+		text-shadow: 2px 2px 2px black; 
+		right: 0; 
+		left: 0; 
+		z-index: 3;
+}
+
+#heroDiv { 
+	position: relative;
+}
+
+#homeText {
+	margin-left:15%;
+	margin-right:15%;
+	text-align: center; 
+}
+
+.footer {
+	text-align: center; 
+	padding-bottom: 20px;
+}
+.topOffset {
+	margin-top: 40px;
+}
+
+
